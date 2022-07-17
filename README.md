@@ -1,2 +1,2 @@
-# Clap-Activated-Light
-A repository containing all the info regarding the clap activated light project
+# EESS-Clap-Activated-Light
+A repository for the clapper project run by EESS
